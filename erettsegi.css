@@ -1,12 +1,12 @@
 .grid-container{
     display: grid;
     gap: 50px 100px;
-    
+    grid-template-columns: auto auto auto;
 }
 
 body{
 
     background-color: black;
     color: beige;
-    
+
 }
