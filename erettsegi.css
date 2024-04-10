@@ -1,4 +1,11 @@
 .grid-container{
     display: grid;
     gap: 50px 100px;
+    
+}
+
+body{
+
+    background-color: black;
+    color: beige;
 }
